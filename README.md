@@ -12,7 +12,7 @@ It is an open-source and cost-effective.
 Engage with interactive escape room elements.
 
 # Tech Stack:
-Python3
-Pygame
-SpeechRecognition
-Threading 
+Python3,
+Pygame,
+SpeechRecognition,
+Threading.
